@@ -1,0 +1,1 @@
+D:\Luiz_2DS\Atividade_Avaliativa\DiceRoller\DiceRoller\DiceRoller.csproj;x64
