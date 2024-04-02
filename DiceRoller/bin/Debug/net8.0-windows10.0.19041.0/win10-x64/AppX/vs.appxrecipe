@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Luiz_2DS\Atividade_Avaliativa\DiceRoller\DiceRoller\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-26T01:05:35.823</Modified>
+      <Modified>2024-04-02T00:27:06.898</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Luiz_2DS\Atividade_Avaliativa\DiceRoller\DiceRoller\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-03-26T01:05:35.635</Modified>
+      <Modified>2024-04-02T00:27:06.742</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Luiz_2DS\Atividade_Avaliativa\DiceRoller\DiceRoller\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DiceRoller.runtimeconfig.json">
       <PackagePath>DiceRoller.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Luiz_2DS\Atividade_Avaliativa\DiceRoller\DiceRoller\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DiceRoller.dll">
       <PackagePath>DiceRoller.dll</PackagePath>
-      <Modified>2024-03-26T01:05:34.525</Modified>
+      <Modified>2024-04-02T00:27:05.836</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Luiz_2DS\Atividade_Avaliativa\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>DiceRoller.exe</PackagePath>
-      <Modified>2024-03-26T01:05:34.541</Modified>
+      <Modified>2024-04-02T00:27:05.883</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Luiz_2DS\Atividade_Avaliativa\DiceRoller\DiceRoller\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

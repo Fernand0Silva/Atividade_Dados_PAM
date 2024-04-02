@@ -13,17 +13,34 @@
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
 
-            <Picker
-                     />
+            <Label
+               Text="6"
+               x:Name="ResultLabel"/>
+
+
+            <Picker 
+               x:Name="SidesPicker">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String> 4 </x:String>
+                        <x:String>6</x:String>
+                        <x:String>8</x:String>
+                        <x:String>10</x:String>
+                        <x:String>12</x:String>
+                        <x:String>20</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
 
 
 
             <Button
-                x:Name="CounterBtn"
+                x:Name="RollBtn"
                 Text="Role o dado" 
                 SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Fill" />
+                Clicked="RollBtn_Clicked"
+                HorizontalOptions="Fill" 
+                BackgroundColor="#303030"/>
         </VerticalStackLayout>
     </ScrollView>
 
